@@ -57,3 +57,12 @@
 2024-10-13 15:28:10,546 INFO /home/frappe/.local/bin/bench worker
 2024-10-13 15:28:10,548 INFO /home/frappe/.local/bin/bench watch
 2024-10-13 15:28:10,606 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-10-13 15:45:16,892 INFO /home/frappe/.local/bin/bench set-config -g developer_mode true
+2024-10-13 15:45:26,152 INFO /home/frappe/.local/bin/bench --site dev.localhost mariadb
+2024-10-13 15:45:36,933 INFO /home/frappe/.local/bin/bench --site dev.localhost backup
+2024-10-13 15:45:47,855 INFO /home/frappe/.local/bin/bench set-config -g developer_mode true
+2024-10-13 15:45:52,044 INFO /home/frappe/.local/bin/bench start
+2024-10-13 15:45:52,678 INFO /home/frappe/.local/bin/bench watch
+2024-10-13 15:45:52,744 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-10-13 15:45:52,764 INFO /home/frappe/.local/bin/bench schedule
+2024-10-13 15:45:52,809 INFO /home/frappe/.local/bin/bench worker
